@@ -1,4 +1,4 @@
-# meincode
+# Einkaufsliste
 
 ## Einleitung
 Mit diesem Code kann man Gegenstände, die man einkaufen will aufschreiben und dies zeigt es dann in einer Einkaufsliste, welche übereinander steht. 
